@@ -1,0 +1,174 @@
+[
+    {
+        "category" : "T-Shirts",
+        "name" : "Best Value Cotton T-Shirt",
+        "price" : "5.91",
+        "size" : " XL | 2XL ",
+        "color" : "Black",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1593726856932-b5b9a661ed46?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+        "category" : "T-Shirts",
+        "name" : "Ultra Cotton Adult T-Shirt",
+        "price" : "6.91",
+        "size" : "2XL | M",
+        "color" : "White",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1574180566232-aaad1b5b8450?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+
+    {
+        "category" : "T-Shirts",
+        "name" : "Long Sleeve T-Shirts",
+        "price" : "4.91",
+        "size" : "XL | 2XL",
+        "color" : "Blue",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1488371934083-edb7857977df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+        "category" : "T-Shirts",
+        "name" : "Contrast T-Shirts",
+        "price" : "9.91",
+        "size" : "XL | M",
+        "color" : "Black",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1590999659195-e64a988eaf4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHRzaGlydHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+
+
+    {
+        "category" : "Polo Shirts",
+        "name" : "100% Cotton Polo Shirts",
+        "price" : "2.91",
+        "size" : "S | M | L",
+        "color" : "Black",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1625910513399-c9fcba54338c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHBvbG8lMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Polo Shirts",
+        "name" : "100% Polyester Polo Shirts",
+        "price" : "5.36",
+        "size" : "L | XL",
+        "color" : "Pink",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1542776575-f1623249ce85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHBvbG8lMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Polo Shirts",
+        "name" : "Polycotton Polo Shirts",
+        "price" : "6.38",
+        "size" : "XL | 2XL",
+        "color" : "White",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1621254508050-0e498d6c98f6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fHBvbG8lMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Polo Shirts",
+        "name" : "Men's Polo Shirts",
+        "price" : "7.35",
+        "size" : "L | 2XL",
+        "color" : "Blue",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1604006852748-903fccbc4019?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fHBvbG8lMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "8.25",
+        "size" : "S | M",
+        "color" : "Navy Blue",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1563630423918-b58f07336ac9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "7.15",
+        "size" : "S | L | XL",
+        "color" : "Black",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2hpcnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "8.35",
+        "size" : "S | 2XL",
+        "color" : "White",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1588359348347-9bc6cbbb689e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2hpcnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "7.50",
+        "size" : "S, M , L, XL",
+        "color" : "Blue",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1563389234808-52344934935c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "5.50",
+        "size" : "XL | 2XL",
+        "color" : "Navy Blue",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1581863293459-1a1ee19e0857?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "6.50",
+        "size" : "L | XL",
+        "color" : "Deep blue",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1548864789-7393f2b4baa5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "7.85",
+        "size" : "S | XL",
+        "color" : "White",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1586084255552-53d22f9f856b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    
+    {
+        "category" : "Shirts",
+        "name" : "Lightweight Shirts",
+        "price" : "8.50",
+        "size" : "S | M ",
+        "color" : "Blue",
+
+        "imgSrc" : "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+
+    
+   
+  
+]

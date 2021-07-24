@@ -40,7 +40,7 @@ function updateCartInfo(){
 
 // load product items content form JSON file
 function loadJSON(){
-    fetch('category.json')
+    fetch('shirts.json')
     .then(response => response.json())
     .then(data =>{
         let html = '';
@@ -50,13 +50,17 @@ function loadJSON(){
                     <div class = "product-img">
                         <img src = "${product.imgSrc}" alt = "product image">
                         <button type = "button" class = "add-to-cart-btn">
-                            <i class = "fas fa-shopping-cart"></i>Add To Cart
+                            <i class = "fas fa-shopping-cart"></i>Add To Basket
                         </button>
                     </div>
                     <div class = "product-content">
                         <h3 class = "product-name">${product.name}</h3>
-                        <span class = "product-category">${product.category}</span>
+                        <span class = "product-category">${product.category}</span> <br />
+                        <span class = "product-size">${product.size}</span> <br />
+                        <span class = "product-color">${product.color}</span>
                         <p class = "product-price">£${product.price}</p>
+                       
+                        
                     </div>
                 </div>
             `;
@@ -85,6 +89,8 @@ function getProductInfo(product){
         imgSrc: product.querySelector('.product-img img').src,
         name: product.querySelector('.product-name').textContent,
         category: product.querySelector('.product-category').textContent,
+        size: product.querySelector('.product-size').textContent,
+        color: product.querySelector('.product-color').textContent,
         price: product.querySelector('.product-price').textContent
     }
     cartItemID++;
@@ -102,6 +108,8 @@ function addToCartList(product){
         <div class = "cart-item-info">
             <h3 class = "cart-item-name">${product.name}</h3>
             <span class = "cart-item-category">${product.category}</span>
+            <span class = "cart-item-size">${product.size}</span>
+            <span class = "cart-item-color">${product.color}</span>
             <span class = "cart-item-price">${product.price}</span>
         </div>
         <button type = "button" class = "cart-item-del-btn">

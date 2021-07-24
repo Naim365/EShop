@@ -387,6 +387,38 @@ header .container{
     -o-border-radius: 5px;
     letter-spacing: 2px;
 }
+
+.product-size{
+    margin:  0.8rem 0;
+    display: inline-block;
+    font-weight: 500;
+    background: chocolate;
+    color: #fff;
+    padding: 0.05rem 1.5rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    letter-spacing: 2px;
+}
+
+.product-color{
+    margin:  0.8rem 0;
+    display: inline-block;
+    font-weight: 500;
+    background: black;
+    color: #fff;
+    padding: 0.05rem 1.5rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    letter-spacing: 2px;
+}
+
+
 .product-price{
     font-size: 1.15rem;
     font-weight: 500;
